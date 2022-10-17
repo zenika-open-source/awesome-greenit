@@ -33,6 +33,11 @@
 
 - [DevFest Perros-Guirec 2022](https://devfest.codedarmor.fr)
 
+## Videos
+
+- [🇫🇷 Impacts environnementaux du Cloud : the good, the bad, the ugly (Sylvain Révéreault - Breizhcamp 2022)](https://www.youtube.com/watch?v=nWpjBElyxbs)
+- [🇫🇷 L'eco-conception, c'est bien, mais si on parlait un peu du backend ? (Jérémie Drouet, Youen Chéné - Breizhcamp 2022)](https://www.youtube.com/watch?v=gE6HUsmh554)
+
 ## Company benchmark & news
 
 - [OpenClimat - Le réseau partagé de l'action Climat](https://openclimat.com/)
