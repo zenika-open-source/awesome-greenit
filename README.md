@@ -41,6 +41,7 @@
 ## Company benchmark & news
 
 - [OpenClimat - Le réseau partagé de l'action Climat](https://openclimat.com/)
+- [Plan Carbone Général](https://www.plancarbonegeneral.com/headquarter/numerique)
 
 ## Design
 
