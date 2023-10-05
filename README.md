@@ -46,4 +46,5 @@
 ## Design
 
 - [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)
+- [Le guide d’écoconception de services numériques](https://eco-conception.designersethiques.org/guide/fr/)
 
