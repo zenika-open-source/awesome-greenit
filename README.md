@@ -1,12 +1,19 @@
 # Awesome Green-IT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 😎 🇬🇧 A collaborative list of great resources about Green-IT. Feel free to contribute to this on-going list.
+Inspired by https://github.com/geojs/awesome-green-it
 
 😎 🇫🇷 Liste collaborative de liens utiles d'éco-conception et du numérique responsable. N'hésitez pas à contribuer à cette liste.
+Inspiré par https://github.com/geojs/awesome-green-it
+
 
 ## Culture
 
+- [Numérique responsable : LA boîte à outils](https://www.greenit.fr/2022/10/25/numerique-responsable-la-boite-a-outils/)
+
 ## Tooling
+
+- [Greenmetrics - Accompagnement dans la mesure et la réduction de l'empreinte carbone ](https://greenmetrics.io/)
 
 ### Online
 
@@ -48,3 +55,5 @@
 - [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)
 - [Le guide d’écoconception de services numériques](https://eco-conception.designersethiques.org/guide/fr/)
 
+
+![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
