@@ -54,6 +54,7 @@ Inspiré par https://github.com/geojs/awesome-green-it
 
 - [Ind.ie — Ethical Design Manifesto](https://ind.ie/ethical-design/)
 - [Le guide d’écoconception de services numériques](https://eco-conception.designersethiques.org/guide/fr/)
+- [Référentiel de bonnes pratiques — Ecoconception web](https://rweb.greenit.fr/)
 
 
 ![with love by zenika](https://img.shields.io/badge/With%20%E2%9D%A4%EF%B8%8F%20by-Zenika-b51432.svg?link=https://oss.zenika.com)
